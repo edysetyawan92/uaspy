@@ -1,8 +1,5 @@
 # UAS Bahasa Pemrograman 1
 
-silakan tuliskan langkah-langkah disertai screenshotnya
-
-
 Silakan tuliskan langkah-langkah disertai screenshotnya :
 
 1. Lakukan fork direpository.
